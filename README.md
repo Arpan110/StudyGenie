@@ -46,7 +46,9 @@ StudyGenie is a smart web application designed to enhance students' productivity
    ```
 
 🌐 Deployment
+
 Vercel Deployment
+
 StudyGenie can be easily deployed to Vercel. We've included configuration files to make this process smooth.
 
 Push your code to GitHub
