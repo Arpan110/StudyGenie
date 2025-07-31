@@ -45,18 +45,17 @@ StudyGenie is a smart web application designed to enhance students' productivity
    GOOGLE_GENERATIVE_AI_API_KEY=your_google_ai_api_key_here
    ```
 
-## 🌐 Deployment
+🌐 Deployment
+Vercel Deployment
+StudyGenie can be easily deployed to Vercel. We've included configuration files to make this process smooth.
 
-### Netlify Deployment
+Push your code to GitHub
 
-StudyGenie can be easily deployed to Netlify. We've included configuration files to make this process smooth.
+Go to Vercel and import your GitHub repository
 
-1. **Push your code to GitHub**
-2. **Connect your GitHub repository to Netlify**
-3. **Configure environment variables in Netlify**
-4. **Deploy!**
+Configure your environment variables in the Vercel dashboard
 
-For detailed deployment instructions, see [NETLIFY_DEPLOYMENT.md](./NETLIFY_DEPLOYMENT.md).
+Click Deploy — you're live! 🚀
 
 ## 🏃‍♂️ Running Locally
 
@@ -102,14 +101,14 @@ For detailed deployment instructions, see [NETLIFY_DEPLOYMENT.md](./NETLIFY_DEPL
 2. Add study tasks with priorities
 3. Track your progress and manage your schedule
 
-## 🚀 Deployment
+🚀 Deployment
+Deploy to Vercel
+Connect your repository to Vercel
 
-### Deploy to Netlify
+Add environment variables in the Vercel dashboard:
+   - GOOGLE_GENERATIVE_AI_API_KEY
 
-1. **Connect your repository to Netlify** 
-2. **Add environment variables** in Netlify dashboard:
-   - `GOOGLE_GENERATIVE_AI_API_KEY`
-3. **Deploy** - Netlify will automatically build and deploy
+Deploy – Vercel will automatically build and deploy your project 🎉
 
 ## 🔒 Security
 
