@@ -47,7 +47,7 @@ StudyGenie is a smart web application designed to enhance students' productivity
 
 ## 🌐 Deployment
 
-**Vercel Deployment**
+### Vercel Deployment
 
 **StudyGenie** can be easily deployed to Vercel. We've included configuration files to make this process smooth.
 
@@ -105,12 +105,12 @@ StudyGenie is a smart web application designed to enhance students' productivity
 
 # 🚀 Deployment
 
-**Deploy to Vercel**
+### Deploy to Vercel
 
 1. Connect your repository to Vercel
 
 2. Add environment variables in the Vercel dashboard:
-  - GOOGLE_GENERATIVE_AI_API_KEY
+  - `GOOGLE_GENERATIVE_AI_API_KEY`
 
 Deploy – Vercel will automatically build and deploy your project 🎉
 
