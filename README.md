@@ -45,7 +45,7 @@ StudyGenie is a smart web application designed to enhance students' productivity
    GOOGLE_GENERATIVE_AI_API_KEY=your_google_ai_api_key_here
    ```
 
-##🌐 Deployment
+## 🌐 Deployment
 
 **Vercel Deployment**
 
@@ -103,8 +103,10 @@ Click Deploy — you're live! 🚀
 2. Add study tasks with priorities
 3. Track your progress and manage your schedule
 
-#🚀 Deployment
+# 🚀 Deployment
+
 **Deploy to Vercel**
+
 Connect your repository to Vercel
 
 Add environment variables in the Vercel dashboard:
